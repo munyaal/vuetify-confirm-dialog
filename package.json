@@ -1,7 +1,7 @@
 {
   "name": "vuetify-confirm",
   "version": "0.2.4",
-  "description": "Extends vuetify with confirm dialog",
+  "description": "Extends vuetify with confirm dialog (Fork arreglando el componente)",
   "scripts": {
     "build": "npm run build:module && npm run build:browser",
     "build:module": "bili --name vuetify-confirm --format cjs,es --plugin vue",
@@ -17,10 +17,10 @@
   "cdn": "dist/vuetify-confirm.min.js",
   "unpkg": "dist/vuetify-confirm.min.js",
   "types": "types/index.d.ts",
-  "homepage": "https://github.com/yariksav/vuetify-confirm",
+  "homepage": "https://github.com/DevelopersCI/vuetify-confirm-dialog",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yariksav/vuetify-confirm.git"
+    "url": "git+https://github.com/DevelopersCI/vuetify-confirm-dialog"
   },
   "author": "Savaryn Yaroslav",
   "license": "MIT",
