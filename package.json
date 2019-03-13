@@ -1,5 +1,5 @@
 {
-  "name": "vuetify-confirm",
+  "name": "@developers-ci/vuetify-confirm-dialog",
   "version": "0.2.4",
   "description": "Extends vuetify with confirm dialog (Fork arreglando el componente)",
   "scripts": {
